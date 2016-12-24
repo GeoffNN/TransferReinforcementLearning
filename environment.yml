@@ -109,7 +109,6 @@ dependencies:
   - box2d-py==2.3.1
   - cycler==0.10.0
   - f.lux-indicator-applet==1.1.8
-  - gym (/media/geoff/SHARED/MVA/Projects/TransferQLearning/TransferReinforcementLearning/gym)==0.5.6
   - imageio==2.0.1
   - ipython-genutils==0.1.0
   - jupyter-client==4.4.0
@@ -117,6 +116,7 @@ dependencies:
   - jupyter-core==4.2.1
   - keras==1.1.2
   - matplotlib==1.5.3
+  - mock==2.0.0
   - mujoco-py==0.5.6
   - nb-anacondacloud==1.2.0
   - nb-conda==2.0.0
@@ -125,8 +125,10 @@ dependencies:
   - pandas==0.19.1
   - pillow==3.4.2
   - prompt-toolkit==1.0.9
+  - protobuf==3.1.0
   - pyglet==1.2.4
   - pyopengl==3.1.0
   - seaborn==0.7.1
+  - tensorflow-gpu==0.12.0
   - theano==0.8.2
 prefix: /home/geoff/anaconda3/envs/rl_project
