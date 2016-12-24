@@ -3,3 +3,4 @@
 *.pyc
 gym/
 *.p
+*.gdoc
